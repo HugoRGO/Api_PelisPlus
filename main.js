@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-mongoose.connect("mongodb+srv://mongodb:mongodb@cluster0.nrjvk82.mongodb.net/?retryWrites=true&w=majority");
+mongoose.connect("mongodb+srv://mongodb:mongodb@cluster0.nrjvk82.mongodb.net/api");
 
 const Persona = mongoose.model("Persona", {
   nombre: String,
