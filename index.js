@@ -36,7 +36,7 @@ mongoose.connect(process.env.URI_MONGO);
 app.use("/v1", routes);
 
 app.use((req, res) => {
-  res.send('<a href="/v1">Go to API V1.2</a>');
+  res.send('<a href="/v1">Go to API PELISPLUS V1.3</a>');
 });
 
 //! 8.- Levantar servidor

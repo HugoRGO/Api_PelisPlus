@@ -5,7 +5,7 @@ const peliculaRouter = require("./Pelicula.route");
 
 router.get("/", (req, res) => {
   res.send(`
-    <h1>Welcome to API!</h1>
+    <h1>Bienvenido a la API_PelisPlus!</h1>
     `);
 });
 
