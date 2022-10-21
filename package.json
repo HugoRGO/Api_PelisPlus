@@ -1,5 +1,5 @@
 {
-  "name": "c7-m3-api",
+  "name": "api-pelis",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/isc-joserodriguez/C7-M3-API.git"
+    "url": "git+https://github.com/HugoRGO/App_PelisPlus.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/isc-joserodriguez/C7-M3-API/issues"
+    "url": "https://github.com/HugoRGO/App_PelisPlus/issues"
   },
-  "homepage": "https://github.com/isc-joserodriguez/C7-M3-API#readme",
+  "homepage": "https://github.com/HugoRGO/App_PelisPlus#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.2",
